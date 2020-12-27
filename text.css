@@ -93,6 +93,7 @@ section#store{
 
 section#about {
   background-image: url(jordan1.jpg);
+  text-background: beige;
 }
 
 #about p{
